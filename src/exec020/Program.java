@@ -1,4 +1,4 @@
-package exec20;
+package exec020;
 
 import java.util.HashSet;
 import java.util.Scanner;

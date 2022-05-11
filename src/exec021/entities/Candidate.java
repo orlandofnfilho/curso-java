@@ -1,4 +1,4 @@
-package exec21.entities;
+package exec021.entities;
 
 public class Candidate implements Comparable<Candidate> {
 
