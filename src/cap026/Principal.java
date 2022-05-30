@@ -28,7 +28,7 @@ public class Principal {
 		System.out.printf("US decimal point: %.3f\n\n", measure);
 
 		System.out.println("Digite o char: ");
-		// Capta o char na posição "0"
+		// Capta o char na posiï¿½ï¿½o "0"
 		char x = sc.next().charAt(0);
 		String nome;
 		int idade;

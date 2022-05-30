@@ -1,0 +1,595 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal",
+            "request": "launch",
+            "mainClass": "cap026.Principal",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(1)",
+            "request": "launch",
+            "mainClass": "cap027.Principal",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Principal(2)",
+            "request": "launch",
+            "mainClass": "cap028.Principal",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch OpCumulativo",
+            "request": "launch",
+            "mainClass": "cap038.OpCumulativo",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch While",
+            "request": "launch",
+            "mainClass": "cap045.While",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch FuncoesString",
+            "request": "launch",
+            "mainClass": "cap059.FuncoesString",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramProduct",
+            "request": "launch",
+            "mainClass": "cap065.ProgramProduct",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramTriangulo",
+            "request": "launch",
+            "mainClass": "cap065.ProgramTriangulo",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Listas",
+            "request": "launch",
+            "mainClass": "cap095.Listas",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program",
+            "request": "launch",
+            "mainClass": "cap099.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Datas",
+            "request": "launch",
+            "mainClass": "cap102.Datas",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(1)",
+            "request": "launch",
+            "mainClass": "cap103.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(2)",
+            "request": "launch",
+            "mainClass": "cap146.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program2",
+            "request": "launch",
+            "mainClass": "cap146.Program2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(3)",
+            "request": "launch",
+            "mainClass": "cap151.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(4)",
+            "request": "launch",
+            "mainClass": "cap157.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(5)",
+            "request": "launch",
+            "mainClass": "cap168.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileReaderBufferReader",
+            "request": "launch",
+            "mainClass": "cap200.FileReaderBufferReader",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileScanner",
+            "request": "launch",
+            "mainClass": "cap200.FileScanner",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch FileWriterBufferWriter",
+            "request": "launch",
+            "mainClass": "cap200.FileWriterBufferWriter",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch FolderFile",
+            "request": "launch",
+            "mainClass": "cap200.FolderFile",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "cap210.Interface",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(6)",
+            "request": "launch",
+            "mainClass": "cap218.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(7)",
+            "request": "launch",
+            "mainClass": "cap223.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(8)",
+            "request": "launch",
+            "mainClass": "cap224.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(9)",
+            "request": "launch",
+            "mainClass": "cap231.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(10)",
+            "request": "launch",
+            "mainClass": "cap237.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(11)",
+            "request": "launch",
+            "mainClass": "cap247.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "exec001.Q1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "exec001.Q2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "exec001.Q3",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "exec001.Q4",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "exec001.Q5",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6",
+            "request": "launch",
+            "mainClass": "exec001.Q6",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(1)",
+            "request": "launch",
+            "mainClass": "exec002.Q1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2(1)",
+            "request": "launch",
+            "mainClass": "exec002.Q2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3(1)",
+            "request": "launch",
+            "mainClass": "exec002.Q3",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4(1)",
+            "request": "launch",
+            "mainClass": "exec002.Q4",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5(1)",
+            "request": "launch",
+            "mainClass": "exec002.Q5",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6(1)",
+            "request": "launch",
+            "mainClass": "exec002.Q6",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7",
+            "request": "launch",
+            "mainClass": "exec002.Q7",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8",
+            "request": "launch",
+            "mainClass": "exec002.Q8",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(2)",
+            "request": "launch",
+            "mainClass": "exec003.Q1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2(2)",
+            "request": "launch",
+            "mainClass": "exec003.Q2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3(2)",
+            "request": "launch",
+            "mainClass": "exec003.Q3",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4(2)",
+            "request": "launch",
+            "mainClass": "exec003.Q4",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5(2)",
+            "request": "launch",
+            "mainClass": "exec003.Q5",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6(2)",
+            "request": "launch",
+            "mainClass": "exec003.Q6",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7(1)",
+            "request": "launch",
+            "mainClass": "exec003.Q7",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8(1)",
+            "request": "launch",
+            "mainClass": "exec003.Q8",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(3)",
+            "request": "launch",
+            "mainClass": "exec004.Q1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2(3)",
+            "request": "launch",
+            "mainClass": "exec004.Q2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3(3)",
+            "request": "launch",
+            "mainClass": "exec004.Q3",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4(3)",
+            "request": "launch",
+            "mainClass": "exec004.Q4",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5(3)",
+            "request": "launch",
+            "mainClass": "exec004.Q5",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6(3)",
+            "request": "launch",
+            "mainClass": "exec004.Q6",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7(2)",
+            "request": "launch",
+            "mainClass": "exec004.Q7",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8(2)",
+            "request": "launch",
+            "mainClass": "exec004.Q8",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q9",
+            "request": "launch",
+            "mainClass": "exec004.Q9",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(4)",
+            "request": "launch",
+            "mainClass": "exec005.Q1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2(4)",
+            "request": "launch",
+            "mainClass": "exec005.Q2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3(4)",
+            "request": "launch",
+            "mainClass": "exec005.Q3",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1(5)",
+            "request": "launch",
+            "mainClass": "exec006.Q1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramBank",
+            "request": "launch",
+            "mainClass": "exec007.ProgramBank",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(12)",
+            "request": "launch",
+            "mainClass": "exec008.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeMain",
+            "request": "launch",
+            "mainClass": "exec009.EmployeeMain",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(13)",
+            "request": "launch",
+            "mainClass": "exec010.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program2(1)",
+            "request": "launch",
+            "mainClass": "exec010.Program2",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program3",
+            "request": "launch",
+            "mainClass": "exec010.Program3",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program4",
+            "request": "launch",
+            "mainClass": "exec010.Program4",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program1",
+            "request": "launch",
+            "mainClass": "exec011.Program1",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(14)",
+            "request": "launch",
+            "mainClass": "exec012.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(15)",
+            "request": "launch",
+            "mainClass": "exec013.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(16)",
+            "request": "launch",
+            "mainClass": "exec014.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(17)",
+            "request": "launch",
+            "mainClass": "exec015.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(18)",
+            "request": "launch",
+            "mainClass": "exec016.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(19)",
+            "request": "launch",
+            "mainClass": "exec017.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(20)",
+            "request": "launch",
+            "mainClass": "exec018.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(21)",
+            "request": "launch",
+            "mainClass": "exec019.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(22)",
+            "request": "launch",
+            "mainClass": "exec020.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(23)",
+            "request": "launch",
+            "mainClass": "exec021.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(24)",
+            "request": "launch",
+            "mainClass": "exec023.Program",
+            "projectName": "curso-java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program(25)",
+            "request": "launch",
+            "mainClass": "teste.Program",
+            "projectName": "curso-java"
+        }
+    ]
+}
