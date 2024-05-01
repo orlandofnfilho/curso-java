@@ -1,0 +1,32 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğóŠÿÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "price2".(ı¯™é
+W
+java:S1854"<Remove this useless assignment to local variable "product2".(úß×Ïùÿÿÿÿ
+H
+java:S1481"-Remove this unused "product2" local variable.(úß×Ïùÿÿÿÿ
+A
+java:S1481"+Remove this unused "price2" local variable.(ı¯™é
+@	java:S106"+Replace this use of System.out by a logger.(ŠÌë÷
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(éæª¦
+@	java:S106"+Replace this use of System.out by a logger.(éæª¦
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ûó‰ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ûó‰ÿÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(€›Ï
+@	java:S106"+Replace this use of System.out by a logger.(€›Ï
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÔÉÑÚ
+@	java:S106"+Replace this use of System.out by a logger.(ÔÉÑÚ
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ã‘×ºûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ã‘×ºûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¥Åğìşÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(²öÔ–
+E	java:S106("+Replace this use of System.out by a logger.(¹ß€ïúÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(¦¤’ÿÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ
