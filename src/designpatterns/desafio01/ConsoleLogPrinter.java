@@ -1,14 +1,12 @@
 package designpatterns.desafio01;
 
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
+import java.time.Instant;
 
-public class ConsoleLogPrinter extends Logger{
+public class ConsoleLogPrinter implements LogPrinter{
 
 	@Override
-	public void log(String message) {
-		System.out.println("[LOG]: " + LocalDateTime.now().format(DateTimeFormatter.ISO_LOCAL_DATE_TIME) + " - " + message);
-		
+	public void print(String message) {
+		System.out.println("[LOG] " + Instant.now() + ": " + message);		
 	}
 
 }
